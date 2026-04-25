@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="center">Your friendly neighbourhood AverageMan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;MySQL+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
