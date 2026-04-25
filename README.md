@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" height="50" width="100%" />
+<img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" height="50%" width="100%" />
 
 <!--
 **dhananjaychaudhary122/dhananjaychaudhary122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
