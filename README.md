@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#00F7FF;">⚡ KAISLAUTERN ⚡</span>
+  <span style="color:#00F7FF;"> KAISLAUTERN </span>
 </h1>
 
 <h3 align="center">
