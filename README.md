@@ -1,5 +1,6 @@
+````markdown id="x7n2qp"
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQfY2h8kYw/giphy.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5e0b9c76-0c9e-4c74-9b65-91b3c48c6c3c.gif" width="100%" />
 </p>
 
 <h1 align="center">
@@ -18,12 +19,13 @@
 
 ## <span style="color:#0FF0FC;">🧠 SYSTEM INFO</span>
 
-
+```bash
 > STATUS: Building CineCapsule
 > LEARNING: Python | MySQL
 > SPECIALTY: Problem Solving
 > CONTACT: sc6943370@gmail.com
 > TRAIT: Drops random facts mid-convo
+````
 
 ---
 
