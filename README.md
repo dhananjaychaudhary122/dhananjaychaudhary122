@@ -1,5 +1,4 @@
 <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" width="100%" />
-## Hi there 👋
 
 <!--
 **dhananjaychaudhary122/dhananjaychaudhary122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to random facts about myself mid convo
 -->
-<h1 align="center">Hi 👋, I'm Kaislautern</h1>
+<h1 align="center">Hi, I'm Kaislautern</h1>
 <h3 align="center">Your friendly neighbourhood AverageMan</h3>
 
 <p align="center">
