@@ -1,4 +1,4 @@
-```markdown
+markdown
 <h1 align="center">
   <span style="color:#00F7FF;">⚡ KAISLAUTERN ⚡</span>
 </h1>
@@ -59,4 +59,3 @@
 ---
 
 ⭐️ <span style="color:#39FF14;">From Kaislautern</span>
-```
