@@ -1,45 +1,46 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQfY2h8kYw/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">
-  <span style="color:#00F7FF;"> KAISLAUTERN </span>
+  <span style="color:#0FF0FC;">⚡ KAISLAUTERN ⚡</span>
 </h1>
 
 <h3 align="center">
-  <span style="color:#39FF14;">Your Friendly Neighbourhood AverageMan</span>
+  <span style="color:#FF00C8;">AverageMan.exe running...</span>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Python+Developer;MySQL+Enthusiast;Problem+Solver;Learning+Something+New+Everyday" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:39FF14&height=100&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00C8&size=28&center=true&vCenter=true&width=700&lines=Python+Developer;MySQL+Enthusiast;Debugging+Reality;Learning+Every+Day" />
 </p>
 
 ---
 
-## <span style="color:#00F7FF;">🧠 About Me</span>
+## <span style="color:#0FF0FC;">🧠 SYSTEM INFO</span>
 
-- 🔭 <span style="color:#39FF14;">Building:</span> CineCapsule  
-- 🌱 <span style="color:#39FF14;">Learning:</span> Python, MySQL  
-- 💬 <span style="color:#39FF14;">Ask me about:</span> Python, SQL, ML Basics  
-- 📫 <span style="color:#39FF14;">Contact:</span> sc6943370@gmail.com  
-- ⚡ <span style="color:#39FF14;">Fun:</span> Random facts drop mid-convo  
+
+> STATUS: Building CineCapsule
+> LEARNING: Python | MySQL
+> SPECIALTY: Problem Solving
+> CONTACT: sc6943370@gmail.com
+> TRAIT: Drops random facts mid-convo
 
 ---
 
-## <span style="color:#00F7FF;">🌐 Connect</span>
+## <span style="color:#0FF0FC;">🌐 NETWORK</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhananjay-chaudhary-2b281b2b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0FF0FC?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/dhananjaychaudhary122">
-    <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-FF00C8?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## <span style="color:#00F7FF;">🛠 Tech Stack</span>
+## <span style="color:#0FF0FC;">⚙️ TECH</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
@@ -48,13 +49,16 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00F7FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FF0FC,100:FF00C8&height=2"/>
 </p>
 
 <p align="center">
-  <span style="color:#00F7FF;">⚡ BUILD • BREAK • LEARN • REPEAT ⚡</span>
+  <span style="color:#FF00C8;">// CYBERSPACE ACTIVE ⚡ STAY LOADING //</span>
 </p>
 
 ---
 
-⭐️ <span style="color:#39FF14;">From Kaislautern</span>
+⭐ <span style="color:#0FF0FC;">Kaislautern</span>
+
+```
+```
