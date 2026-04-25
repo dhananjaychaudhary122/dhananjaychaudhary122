@@ -1,47 +1,62 @@
-## Hi there 👋
+```markdown
+<h1 align="center">
+  <span style="color:#00F7FF;">⚡ KAISLAUTERN ⚡</span>
+</h1>
 
-<!--
-**dhananjaychaudhary122/dhananjaychaudhary122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Python, MySQL
-- 💬 Ask me about ...
-- 📫 How to reach me: @sc6943370@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to random facts about myself mid convo
--->
-<h1 align="center">Hi 👋, I'm Kaislautern</h1>
-<h3 align="center">Your friendly neighbourhood AverageMan</h3>
+<h3 align="center">
+  <span style="color:#39FF14;">Your Friendly Neighbourhood AverageMan</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;MySQL+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Python+Developer;MySQL+Enthusiast;Problem+Solver;Learning+Something+New+Everyday" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:39FF14&height=100&section=header"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on: **CineCapsule**
-- 🌱 I’m learning: **Python, MySQL**
-- 💬 Ask me about: **Python, SQL, Basics of ML**
-- 📫 Reach me at: **sc6943370@gmail.com**
-- ⚡ Fun fact: **I like to drop random facts mid convo**
+## <span style="color:#00F7FF;">🧠 About Me</span>
+
+- 🔭 <span style="color:#39FF14;">Building:</span> CineCapsule  
+- 🌱 <span style="color:#39FF14;">Learning:</span> Python, MySQL  
+- 💬 <span style="color:#39FF14;">Ask me about:</span> Python, SQL, ML Basics  
+- 📫 <span style="color:#39FF14;">Contact:</span> sc6943370@gmail.com  
+- ⚡ <span style="color:#39FF14;">Fun:</span> Random facts drop mid-convo  
 
 ---
 
-## 🌐 Connect With Me
+## <span style="color:#00F7FF;">🌐 Connect</span>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhananjay-chaudhary-2b281b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/dhananjaychaudhary122"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/dhananjay-chaudhary-2b281b2b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://github.com/dhananjaychaudhary122">
+    <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## <span style="color:#00F7FF;">🛠 Tech Stack</span>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
 </p>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00F7FF&height=100&section=footer"/>
+</p>
 
-⭐️ From [Kaislautern](https://github.com/dhananjaychaudhary122)
+<p align="center">
+  <span style="color:#00F7FF;">⚡ BUILD • BREAK • LEARN • REPEAT ⚡</span>
+</p>
+
+---
+
+⭐️ <span style="color:#39FF14;">From Kaislautern</span>
+```
