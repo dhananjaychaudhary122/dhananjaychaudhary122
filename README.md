@@ -1,63 +1,47 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5e0b9c76-0c9e-4c74-9b65-91b3c48c6c3c.gif" width="100%" />
-</p>
+## Hi there 👋
 
-<h1 align="center">
-  <span style="color:#0FF0FC;">⚡ KAISLAUTERN ⚡</span>
-</h1>
+<!--
+**dhananjaychaudhary122/dhananjaychaudhary122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">
-  <span style="color:#FF00C8;">AverageMan.exe running...</span>
-</h3>
+Here are some ideas to get you started:
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00C8&size=28&center=true&vCenter=true&width=700&lines=Python+Developer;MySQL+Enthusiast;Debugging+Reality;Learning+Every+Day" />
-</p>
-
----
-
-## <span style="color:#0FF0FC;">🧠 SYSTEM INFO</span>
-
-> STATUS: Building CineCapsule
-> LEARNING: Python | MySQL
-> SPECIALTY: Problem Solving
-> CONTACT: sc6943370@gmail.com
-> TRAIT: Drops random facts mid-convo
-
----
-
-## <span style="color:#0FF0FC;">🌐 NETWORK</span>
+- 🌱 I’m currently learning Python, MySQL
+- 💬 Ask me about ...
+- 📫 How to reach me: @sc6943370@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to random facts about myself mid convo
+-->
+<h1 align="center">Hi 👋, I'm Kaislautern</h1>
+<h3 align="center">Your friendly neighbourhood AverageMan</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhananjay-chaudhary-2b281b2b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0FF0FC?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="https://github.com/dhananjaychaudhary122">
-    <img src="https://img.shields.io/badge/GitHub-FF00C8?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;MySQL+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## <span style="color:#0FF0FC;">⚙️ TECH</span>
+## 🚀 About Me
+- 🔭 I’m currently working on: **CineCapsule**
+- 🌱 I’m learning: **Python, MySQL**
+- 💬 Ask me about: **Python, SQL, Basics of ML**
+- 📫 Reach me at: **sc6943370@gmail.com**
+- ⚡ Fun fact: **I like to drop random facts mid convo**
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+  <a href="https://www.linkedin.com/in/dhananjay-chaudhary-2b281b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/dhananjaychaudhary122"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
+## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FF0FC,100:FF00C8&height=2"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-<p align="center">
-  <span style="color:#FF00C8;">// CYBERSPACE ACTIVE ⚡ STAY LOADING //</span>
-</p>
 
----
 
-⭐ <span style="color:#0FF0FC;">Kaislautern</span>
-
-```
-```
+⭐️ From [Kaislautern](https://github.com/dhananjaychaudhary122)
